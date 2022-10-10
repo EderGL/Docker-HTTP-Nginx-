@@ -1,0 +1,78 @@
+body {
+    background-image: url("background.png");
+  }
+form{
+   
+    height: 200px;
+    width: 30%;
+    justify-content: center;
+    margin:auto;
+    opacity: 0.5;
+}
+
+#body{
+    
+    background-color: rgb(149, 165, 166 );
+    opacity: 0.5;
+    margin-top: 20%;
+    font-family: verdana;
+    height: 300px;
+    width: 60%;
+    text-align: justify;
+    justify-content: center;
+    overflow-y:scroll;
+    margin:auto;
+    padding:5%;
+    
+}
+
+#titulo{
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#login{
+    background-color: rgb(149, 165, 166 );
+    margin-top: 20%;
+    font-family: verdana;
+    padding:5%;
+
+}
+
+#foto1{
+    height: 400;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu{
+    display: block;
+    margin-left: 30%;
+    margin-right: auto;
+}
+
+ul {
+    background-color: rgb(146, 58, 146);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    float:top;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 19px;
+    background-color: #dddddd;
+  }
